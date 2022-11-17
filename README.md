@@ -1,11 +1,5 @@
 ## Sup?
 
-
-
-https://user-images.githubusercontent.com/117765242/202472028-5bd68239-2d75-4143-9254-27ff427871ef.mp4
-
-
-
 <!--
 **enesmaku/enesmaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
